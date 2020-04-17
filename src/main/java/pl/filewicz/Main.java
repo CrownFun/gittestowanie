@@ -5,6 +5,8 @@ public class Main {
         System.out.println("Hello World");
         Putin putin = new Putin();
         Logitech logitech = new Logitech();
+        Dell dell = new Dell();
+        dell.dell();
         logitech.hell();
         putin.hello();
     }
