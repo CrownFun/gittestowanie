@@ -10,10 +10,13 @@ public class Main {
         Putin putin = new Putin();
         Logitech logitech = new Logitech();
         Dell dell = new Dell();
+        Sony sony = new Sony();
         HP hp = new HP();
         hp.hello();
         dell.dell();
         logitech.hell();
         putin.hello();
+        sony.hello();
+
     }
 }
